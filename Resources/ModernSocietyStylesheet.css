@@ -1,0 +1,169 @@
+@charset "utf-8";
+
+body {
+	Background-color: #000000;
+	font-weight: lighter;
+}
+
+header {
+	font-size:300%;
+	text-align:center;
+	color:#F7F7F7;
+}/* CSS Document */
+
+nav {
+	text-align:center;
+	font-size:18px;
+	padding: 10px;
+	color:#FFFFFF
+}
+
+nav a {
+	color:#FFFFFF
+}
+
+a:hover {
+	color:#737373;
+}
+
+a:link {
+	text-decoration:none;
+}
+
+h1 {
+	color: #FFFFFF; 
+	font-size: 50px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+h2 {
+	color: #FFFFFF;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+h3 {
+	color: #FFFFFF;
+	margin-left: 70px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+h3.asian {
+	color: #FFFFFF;
+	margin-left: 70px;
+	position:relative;
+	left: 20px;
+}
+
+h4 {
+	color: #FFFFFF;
+	margin-left: 80px;
+	font-size: x-large;
+	font-weight: bold;
+}
+
+h5 {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: lighter;
+	font-size: medium;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+h6 {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: lighter;
+	font-size: medium;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+h6.last {
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: lighter;
+	font-size: medium;
+	text-align:center;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+p {
+	color:#FFFFFF;
+	line-height: 1.5;
+	word-spacing: 2px;
+	font-size:20px;
+	text-align:justify;
+	position: relative;
+	left: 10px;
+	right: 20px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+ol {	
+	color:#FFFFFF;
+	line-height: 1.5;
+	word-spacing: 2px;
+	font-size:20px;
+	position: relative;
+	left: 30px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+iframe {
+	position:relative;
+	left: 300px;
+}
+
+iframe.top {
+	position:relative;
+	left: 350px;
+}
+
+br {
+	line-height: 2;
+}/* CSS Document */
+
+img.top {
+	vertical-align: text-top;
+	float: left;
+}
+
+img.mexican {
+	vertical-align: text-top;
+	float: right;
+	padding-left:20px;
+	margin-right: 80px;
+	margin-left: 80px;
+}
+
+img.noose {
+	vertical-align: text-top;
+	float: left;
+	margin-left: 80px;
+	line-height: 1.5;
+}
+
+img.one {
+	float: none;
+	position:relative;
+	left: 250px;
+}
+
+img.two {
+	float: none;
+	position:relative;
+	left: 450px;
+}
+
+img.three {
+	float: none;
+	position:relative;
+	left: 650px;
+}
